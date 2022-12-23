@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home from '../Home.vue'
+import Home from '../views/Todo.vue'
 
 Vue.useAttrs(VueRouter)
 
