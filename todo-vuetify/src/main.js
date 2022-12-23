@@ -7,6 +7,7 @@
 // Components
 import App from './App.vue'
 import About from './views/About.vue'
+import Todo from './views/Todo.vue'
 
 // Composables
 import { createApp } from 'vue'
